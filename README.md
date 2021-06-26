@@ -2,8 +2,9 @@
 API provide data for core-app
 
 # first init
-npm i
-npm start
+*npm i*
+
+*npm start*
 
 Let's go
 
